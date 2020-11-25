@@ -2,6 +2,8 @@
 
 Simple Stopwatch/Timer/Countdown using HTML+JS 
 
+<a href="https://codepen.io/fox24/pen/xxEKPXB"><b> DEMO </b></a>
+
 <b> Setting up </b>
 
 1. Fork and clone the repository
