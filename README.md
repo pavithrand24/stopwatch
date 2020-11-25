@@ -2,8 +2,6 @@
 
 Simple Stopwatch/Timer/Countdown using HTML+JS 
 
-<b> DEMO </b>
-
 <b> Setting up </b>
 
 1. Fork and clone the repository
